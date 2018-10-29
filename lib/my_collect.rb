@@ -5,4 +5,3 @@ def my_collect(collection)
     counter += 1
   end
 end
-
